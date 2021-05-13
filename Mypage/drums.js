@@ -1,4 +1,4 @@
-alert("working");
+
 document.addEventListener("keydown",function(event){
     makesound(event.key);
     addanimation(event.key);
